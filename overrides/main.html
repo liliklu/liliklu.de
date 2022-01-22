@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{{nav}}
+
+{%- block content %}
+    {% if "toc" not in page.meta.hide %}
+        <div class="col-md-3">{% include "toc.html" %}</div>
+    {% endif %}
+    <div class="col-md-9" role="main">{% include "content.html" %}</div>
+{%- endblock %}
+
+
+{%- block footer %}
+{%- endblock %}
+
+
+{#
+The entry point for the MkDocs Theme.
+
+Any theme customisations should override this file to redefine blocks defined in
+the various templates. The custom theme should only need to define a main.html
+which `{% extends "base.html" %}` and defines various blocks which will replace
+the blocks defined in base.html and its included child templates.
+#}
