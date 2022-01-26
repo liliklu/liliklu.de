@@ -2,7 +2,6 @@
 title: Bücher
 hide:
 - toc
-slug: books
 ---
 
 # Bücherliste
