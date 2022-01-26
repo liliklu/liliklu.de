@@ -4,7 +4,7 @@ hide:
 - toc
 - navigation
 ---
-ÜBER MICH            ![](img/ueber-mich.png)
+**##ÜBER MICH                 ![](img/ueber-mich.png)
 
 Was gibt es zu erzählen?
 
@@ -12,7 +12,7 @@ Was gibt es über mich zu berichten?
 
 
 
-**Vielleicht,** dass ich vier wunderbare Kinder habe, vier "Jungen" im Alter von 28/27/15/14.
+*Vielleicht,** dass ich vier wunderbare Kinder habe, vier "Jungen" im Alter von 28/27/15/14.
 
 **Vielleicht,** dass meine Söhne meine größten Lehrmeister waren und immer noch sind.
 
