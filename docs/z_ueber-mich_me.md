@@ -9,7 +9,7 @@ img {
   float: middel;
 }
 </style>
-#### ***ÜBER MICH*** </span><a   ![](img/ueber-mich.png)
+#### ***ÜBER MICH***  🍀🦋💚 ![](img/ueber-mich.png)
 
 
 **Was gibt es zu erzählen?**
