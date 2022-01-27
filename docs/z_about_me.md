@@ -10,9 +10,6 @@ img {
 }
 </style>
 #### ÜBER MICH   ![](img/ueber-mich.png)
-  
-
-
 
 
 
