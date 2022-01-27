@@ -1,7 +1,8 @@
 ---
 title: Zahlungsmodalitäten
 ---
-
+hide:
+- toc
 
 ###Bankverbindung  
 
