@@ -2,6 +2,8 @@
 title: Reading
 ---
 
+### Ein paar Worte zum Reading:
+
 Das Reading bekommt durch eine von Dir gestellte Frage einen Wirkrahmen.
 
 Ich nehme Deine Frage als Grundlage und gehe mit ihr in das Reading. Ich werde dann mit Deiner Erlaubnis, die Du in Verbindung mit Deiner Seele durch die Veranlassung des Readings gibst, alles, was sich zeigt, lösen und harmonisieren.
@@ -26,15 +28,15 @@ Es ist wichtig, dass Du weißt, wie ich (mit meiner göttlichen Führung) wirke(
 
 Natürlich sende ich Dir ein Abschlussprotokoll von allem, was sich energetisch gezeigt hat zu. Durch das Lesen des Protokolls können Situationen oder Bilder in Dir auftauchen/bewusst werden, damit sie sich dann endgültig aus Deinem Energiefeld lösen dürfen.
 
-## Aufwand/Entschädigung
+## Leistung – Ausgleich
 Ein Reading dauert erfahrungsgemäß 3 Stunden.
 
 **Ausgleich**: 85,00 Euro/ Reading
 
 
 > Ein paar Worte zum Reading:
-> Ein Reading ersetzt keinen Arztbesuch. 
-> 
+> Ein Reading ersetzt keinen Arztbesuch.
+>
 > Ich gebe keine Heilversprechen und auch keine Prognosen für die Zukunft. Alles, was sich dann daraus ergibt, obliegt allein Deiner Selbst- und Eigenverantwortung.
 
 Alles Liebe in Liebe
