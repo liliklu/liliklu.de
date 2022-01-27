@@ -4,6 +4,11 @@ hide:
 - toc
 - navigation
 ---
+<style>
+img {
+  float: right;
+}
+</style>
 #### ÜBER MICH                              ![](img/ueber-mich.png)
 
 
