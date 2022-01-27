@@ -9,7 +9,7 @@ img {
   Horizontal rule: ***
 }
 </style>
-#### **ÜBER MICH**   ![](img/ueber-mich.png)
+#### ***ÜBER MICH***   ![](img/ueber-mich.png)
 
 
 **Was gibt es zu erzählen?**
