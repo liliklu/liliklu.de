@@ -6,7 +6,7 @@ hide:
 ---
 <style>
 img {
-  Horizontal rule: ***
+  float: middel;
 }
 </style>
 #### ***ÜBER MICH***   ![](img/ueber-mich.png)
