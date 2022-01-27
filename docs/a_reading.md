@@ -24,7 +24,7 @@ Zum Abschluss wird Dein gesamtes Energiefeld nochmals gereinigt und mit reinster
 
 Es können Erstreaktionen auftreten wie Übelkeit, Gliederschmerzen und vielleicht auch Durchfall und Erbrechen oder Kopfdruck. Dies sind ganz normale Reinigungsreaktionen, die sich meist schnell legen und nicht auszuschließen sind.
 
-Es ist wichtig, dass Du weißt, wie ich (mit meiner göttlichen Führung) wirke(n), damit Du ein Verständnis dafür zu bekommst, was da gerade in Deinem Energiefeld geschieht.
+Es ist wichtig, dass Du weißt, wie ich (mit meiner göttlichen Führung) wirke(n), damit Du ein Verständnis dafür bekommst, was da gerade in Deinem Energiefeld geschieht.
 
 Natürlich sende ich Dir ein Abschlussprotokoll von allem, was sich energetisch gezeigt hat zu. Durch das Lesen des Protokolls können Situationen oder Bilder in Dir auftauchen/bewusst werden, damit sie sich dann endgültig aus Deinem Energiefeld lösen dürfen.
 
