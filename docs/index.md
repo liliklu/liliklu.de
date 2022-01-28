@@ -7,19 +7,19 @@ hide:
 
 ![](img/opener.png)
 
-Hallo, schön dass Du da bist . . .  
+* Hallo, schön dass Du da bist . . .  
 
             
 
-          Herzlich willkommen . . .
+          * Herzlich willkommen . . .
 
 ​
 
-                  Ich freue mich, dass Du den Weg          
+                  * Ich freue mich, dass Du den Weg          
 
 
 
-                             zu mir gefunden hast.
+                             * zu mir gefunden hast.
 
 ​
 
