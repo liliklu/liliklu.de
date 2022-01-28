@@ -3,7 +3,7 @@ title: Zahlungsmodalitäten
 hide:
 - toc
 ---
-<style>
+
 
 
 ###Bankverbindung  
