@@ -15,6 +15,8 @@ theme:
   analytics:
       gtag: UA-217783440-1
 
+extra_css:
+    - css/extra.css
 
 #theme:
 #  name: null
