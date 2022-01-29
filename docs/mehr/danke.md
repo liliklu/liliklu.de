@@ -2,7 +2,7 @@
 title: Danke
 ---
 
-![](img/baum.png)
+![](../img/baum.png)
 
 ### Ulli aus Kempten
  
