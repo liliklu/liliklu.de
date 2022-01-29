@@ -3,12 +3,12 @@ title: Reading
 ---
 <style>
 img {
-  width: 400px;
+  width: 300px;
   max-width: 99%
 }
 </style>
 
-![](/img/Reading-Bild-1.png)
+👣 👣 👣 👣 👣 ![](/img/Reading-Bild-1.png) 👣 👣 👣 👣 👣
 
 
 ### Ein paar Worte zum Reading:
