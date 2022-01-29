@@ -19,7 +19,7 @@ img {
 
 
 
-Die Vergangenheit kommt uns entgegen,
+**Die Vergangenheit kommt uns entgegen,**
 die Zukunft lieg bereits hinter uns.
 
 Diesen Satz habe ich vor Jahren einmal gehört, ich habe ihn zu der Zeit aber nicht verstanden oder besser ausgedrückt, ich konnte ihn mit meinem Bewusstsein nicht begreifen.
