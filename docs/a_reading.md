@@ -1,9 +1,14 @@
 ---
 title: Reading
 ---
+<style>
+img {
+  width: 300px;
+  max-width: 99%
+}
+</style>
 
-
-![](../img/Reading für Dich.png)
+![](/img/Reading.png)
 
 
 ### Ein paar Worte zum Reading:
