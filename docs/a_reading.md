@@ -2,6 +2,10 @@
 title: Reading
 ---
 
+
+![](../img/Reading für Dich.png)
+
+
 ### Ein paar Worte zum Reading:
 
 Das Reading bekommt durch eine von Dir gestellte Frage einen Wirkrahmen.
