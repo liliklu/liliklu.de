@@ -3,7 +3,7 @@ title: Reading
 ---
 <style>
 img {
-  width: 300px;
+  width: 600px;
   max-width: 99%
 }
 </style>
