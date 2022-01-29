@@ -1,6 +1,8 @@
 nav:
-    - reading.md
-    - buecher.md
-    - blog
-    - tagespentagramm
-    - mehr
+  - index.md
+  - reading.md
+  - buecher.md
+  - blog
+  - tagespentagramm
+  - ...
+  - mehr

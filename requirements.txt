@@ -1,3 +1,4 @@
 mkdocs[i18n]
 mkdocs-material
 mkdocs-awesome-pages-plugin
+mkdocs-blog-plugin

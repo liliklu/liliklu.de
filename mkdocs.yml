@@ -3,8 +3,12 @@ site_description: ''
 site_author: 'Ute Klinke'
 site_url: https://liliklu.de
 docs_dir: docs/
+copyright: © 2022 Ute Klinke
 plugins:
   - awesome-pages
+#  - blog:
+#      more-articles: Weitere (%)
+#      pagination: Seite % von %
 theme:
   name: mkdocs
   custom_dir: overrides/

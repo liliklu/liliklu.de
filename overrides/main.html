@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 
-{{nav}}
+{{ nav }}
 
 {%- block content %}
     {% if "toc" not in page.meta.hide %}
@@ -12,6 +12,9 @@
 
 
 {%- block footer %}
+    <hr>
+    <p>{{ config.copyright }} | <a href="hidden/impressum/">Impressum</a> | <a href="hidden/datenschutz/">Datenschutz</a></p>
+
 {%- endblock %}
 
 
