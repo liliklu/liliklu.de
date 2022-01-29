@@ -8,7 +8,7 @@ img {
 }
 </style>
 
-👣 👣 👣 👣 👣 ![](/img/Reading-Bild-1.png) 👣 👣 👣 👣 👣
+**👣 👣 👣 👣 👣** ![](/img/Reading-Bild-1.png) **👣 👣 👣 👣 👣**
 
 
 ### Ein paar Worte zum Reading:
