@@ -7,38 +7,38 @@ hide:
 
 ![](img/opener.png)
 
-*Hallo, schön dass Du da bist . . .*  
 
 
 
-*Herzlich willkommen . . .*
 
-​
-
-*Ich freue mich, dass Du den Weg*          
-
-
-
-*zu mir gefunden hast.*
+#### Herzlich willkommen . . .
 
 ​
 
-*👣   👣   👣   👣   👣   👣   👣   👣   👣   👣   👣   👣*
+### Ich freue mich, dass Du den Weg          
 
 
-Wie geht es Dir?
 
-​
-
-Führst Du das Leben, das Dich erfüllt und glücklich macht?
+### zu mir gefunden hast.
 
 ​
 
-Hast Du einen Beruf oder lebst Du Deine Berufung?
+
+
+
+*Wie geht es Dir?*
 
 ​
 
-Spürst Du Deine innere Führung?
+*Führst Du das Leben, das Dich erfüllt und glücklich macht?*
+
+​
+
+*Hast Du einen Beruf oder lebst Du Deine Berufung?*
+
+​
+
+*Spürst Du Deine innere Führung?*
 
 
 Ich möchte Dir gern mein Wirken als Energetikerin näher bringen. Ich wurde in den letzten Wochen öfter um ein Reading* gebeten. Das Bedürfnis, alles Schwere und Belastende loszulassen und stattdessen das Lichte und die Leichtigkeit in sein Leben einzuladen, wächst mehr und mehr und möchte sich durch uns manifestieren. Das Reading schenkt Dir eine Möglichkeit, Deinen Neustart um ein Vielfaches zu erleichtern.
@@ -60,10 +60,10 @@ Aber manchmal wird es Zeit, aus dem alten Leid herauszutreten und sich für das 
 
 Alles ist bereits in Dir, wenn Du Dich erinnern lässt, geschieht es in Dir von ganz allein. 
 
-                  Du bist die Veränderung
+                  *Du bist die Veränderung*
 
 
-Du kannst mir einfach eine Mail schreiben oder eine Nachricht über Telegram schicken, durch die wir dann in Verbindung kommen. Der erste Schritt ist der Wichtigste!
+Du kannst mir einfach eine Mail schreiben oder eine Nachricht über Telegram schicken, durch die wir dann in den Austausch kommen. Der erste Schritt ist der Wichtigste!
 
 ​
 
@@ -76,7 +76,7 @@ Alles Liebe in Liebe
 
 
 
-Ute /Liliklu🦋
+Ute /Liliklu 🦋
 
 ​
 
