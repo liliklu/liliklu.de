@@ -9,16 +9,15 @@ img {
   float: middel;
 }
 </style>
-#### ***ÜBER MICH***  🍀🦋💚 ![](../img/ueber-mich.png)
+#### ***ÜBER MICH***  🍀🦋💚 ![](img/ueber-mich.png)
 
+<br>
+#### ***Was gibt es zu erzählen?***
+<br>
 
-***Was gibt es zu erzählen?***
+#### ***Was gibt es über mich zu berichten?***
 
-
-***Was gibt es über mich zu berichten?***
-
-
-
+<br><br>
 
 ***Vielleicht,*** dass ich vier wunderbare Kinder habe, vier "Jungen" im Alter von 28/27/15/14.
 
