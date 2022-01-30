@@ -1,7 +1,22 @@
 {% extends "base.html" %}
 
 
-{{ nav }}
+{%- block next_prev %}
+    {%- if page and (page.next_page or page.previous_page) %}
+        <li class="nav-item">
+            <a rel="prev" {% if page.previous_page %}href="{{ page.previous_page.url|url }}" class="nav-link"
+               {% else %}class="nav-link disabled"{% endif %}>
+                <i class="fa fa-arrow-left"></i> Vorheriger
+            </a>
+        </li>
+        <li class="nav-item">
+            <a rel="next" {% if page.next_page %}href="{{ page.next_page.url|url }}" class="nav-link"
+               {% else %}class="nav-link disabled"{% endif %}>
+                Nächste <i class="fa fa-arrow-right"></i>
+            </a>
+        </li>
+    {%- endif %}
+{%- endblock %}
 
 {%- block content %}
     {% if "toc" not in page.meta.hide %}
@@ -13,7 +28,8 @@
 
 {%- block footer %}
     <hr>
-    <p>{{ config.copyright }} | <a href="hidden/impressum/">Impressum</a> | <a href="hidden/datenschutz/">Datenschutz</a></p>
+    <p>{{ config.copyright }} | <a href="hidden/impressum/">Impressum</a> | <a
+            href="hidden/datenschutz/">Datenschutz</a></p>
 
 {%- endblock %}
 
