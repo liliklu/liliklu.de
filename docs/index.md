@@ -9,23 +9,22 @@ hide:
 
 *Hallo, schön dass Du da bist . . .*  
 
-            
-
-          *Herzlich willkommen . . .*
-
-​
-
-                  *Ich freue mich, dass Du den Weg*          
 
 
-
-                             *zu mir gefunden hast.*
+*Herzlich willkommen . . .*
 
 ​
 
-                         
+*Ich freue mich, dass Du den Weg*          
+
+
+
+*zu mir gefunden hast.*
 
 ​
+
+*👣   👣   👣   👣   👣   👣   👣   👣   👣   👣   👣   👣*
+
 
 Wie geht es Dir?
 
@@ -63,11 +62,8 @@ Alles ist bereits in Dir, wenn Du Dich erinnern lässt, geschieht es in Dir von 
 
                   Du bist die Veränderung
 
-​
 
-​
-
-Du kannst mir einfach eine Mail schreiben, durch die wir dann in Verbindung kommen. Der erste Schritt ist der Wichtigste!
+Du kannst mir einfach eine Mail schreiben oder eine Nachricht über Telegram schicken, durch die wir dann in Verbindung kommen. Der erste Schritt ist der Wichtigste!
 
 ​
 
