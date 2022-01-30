@@ -17,14 +17,11 @@ hide:
 
 #### Ich freue mich, dass Du den Weg          
 
-
+<br>
 
 #### zu mir gefunden hast.
 
-​
-
-
-
+<br>
 
 **Wie geht es Dir?**
 <br>
@@ -40,35 +37,24 @@ hide:
 
 **Spürst Du Deine innere Führung?**
 <br>
-
-Ich möchte Dir gern mein Wirken als Energetikerin näher bringen.  
-Ich wurde in den letzten Wochen öfter um ein Reading* gebeten.  
-Das Bedürfnis, alles Schwere und Belastende loszulassen und  
-stattdessen das Lichte und die Leichtigkeit in sein Leben einzuladen,  
-wächst mehr und mehr und möchte sich durch uns manifestieren. Das  
-Reading schenkt Dir eine Möglichkeit, Deinen Neustart um ein  
-Vielfaches zu erleichtern.
 <br>
+Ich möchte Dir gern mein Wirken als Energetikerin näher bringen. Ich wurde in den letzten Wochen öfter um ein Reading* gebeten. Das Bedürfnis, alles Schwere und Belastende loszulassen und stattdessen das Lichte und die Leichtigkeit in sein Leben einzuladen, wächst mehr und mehr und möchte sich durch uns manifestieren.
 
-Wenn Du bereit bist, den alten Pfad zu verlassen und Dein Leben zu  
-verändern, dann würde ich mich freuen, Dich auf Deinem Weg  
-unterstützen zu dürfen. Es braucht immer ein wenig Mut etwas Neues zu  
-beginnen!
+Das Reading schenkt Dir eine Möglichkeit, Deinen Neustart um ein
+Vielfaches zu erleichtern.
 
-<br><br>
+Wenn Du bereit bist, den alten Pfad zu verlassen und Dein Leben zu verändern, dann würde ich mich freuen, Dich auf Deinem Weg unterstützen zu dürfen. Es braucht immer ein wenig Mut etwas Neues zu beginnen!
+
+<br>
 
 Wie heißt es so schön:
 
 Lieber das alt bekannte Leid als das unbekannte Glück!
 
 <br>
-Aber manchmal wird es Zeit, aus dem alten Leid herauszutreten und  
-sich für das unbekannte Glück zu öffnen.
+Aber manchmal wird es Zeit, aus dem alten Leid herauszutreten und sich für das unbekannte Glück zu öffnen.
 
-​<br>
-
-Alles ist bereits in Dir, wenn Du Dich erinnern lässt, geschieht  
-es in Dir von ganz allein. 
+Alles ist bereits in Dir, wenn Du Dich erinnern lässt, geschieht es in Dir von ganz allein. 
 
                   **Du bist die Veränderung**
 
