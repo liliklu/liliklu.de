@@ -12,13 +12,13 @@ img {
 #### ***ÜBER MICH***  🍀🦋💚 ![](img/ueber-mich.png)
 
 
-#### Was gibt es zu erzählen?
+#### *Was gibt es zu erzählen?*
 
 
-#### Was gibt es über mich zu berichten?
+#### *Was gibt es über mich zu berichten?*
 
 
-
+<br><br>
 
 ***Vielleicht,*** dass ich vier wunderbare Kinder habe, vier "Jungen" im Alter von 28/27/15/14.
 
