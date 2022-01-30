@@ -11,12 +11,11 @@ img {
 </style>
 #### ***ÜBER MICH***  🍀🦋💚 ![](img/ueber-mich.png)
 
+<br>
+#### ***Was gibt es zu erzählen?***
+<br>
 
-#### *Was gibt es zu erzählen?*
-
-
-#### *Was gibt es über mich zu berichten?*
-
+#### ***Was gibt es über mich zu berichten?***
 
 <br><br>
 
