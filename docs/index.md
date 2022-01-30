@@ -37,7 +37,7 @@ hide:
 
 **Spürst Du Deine innere Führung?**
 <br>
-<br>
+<br><br>
 Ich möchte Dir gern mein Wirken als Energetikerin näher bringen. Ich wurde in den letzten Wochen öfter um ein Reading* gebeten. Das Bedürfnis, alles Schwere und Belastende loszulassen und stattdessen das Lichte und die Leichtigkeit in sein Leben einzuladen, wächst mehr und mehr und möchte sich durch uns manifestieren.
 
 Das Reading schenkt Dir eine Möglichkeit, Deinen Neustart um ein
