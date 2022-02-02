@@ -4,11 +4,7 @@ hide:
 - toc
 - navigation
 ---
-<style>
-img {
-  float: middel;
-}
-</style>
+<br>
 #### ***ÜBER MICH***  🍀🦋💚 ![](../img/ueber-mich.png)
 
 <br>
