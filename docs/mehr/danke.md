@@ -4,10 +4,18 @@ title: Danke
 
 ![](../img/baum.png)
 
+<br>
+
+### Leona
+<a href="https://t.me/Liliklu/653">Feedback Leona<a>
+
+<br>
+---
+<br>
 ### Kirsten
 
 Erstes Feedback nach dem Reading
-<a href="https://t.me/Liliklu/617">Feedback Kirsten<a> == $0
+<a href="https://t.me/Liliklu/617">Feedback Kirsten<a>
 
 <br>
 ---
