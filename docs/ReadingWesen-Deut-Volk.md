@@ -1,5 +1,5 @@
 ---
-title: Reading
+title: Reading Wesen des Deutschen Volkes
 ---
 <style>
 img {
@@ -8,7 +8,7 @@ img {
 }
 </style>
 
- ![](/img/Reading-bild.png)
+ ![](/img/Reading Deutsches Volk.png)
 
 
 
