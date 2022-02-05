@@ -12,7 +12,8 @@ img {
 
 
 
-## Reading für die energetische Wesenheit „Deutsches Volk“
+## Reading für die energetische "Wesenheit des Deutschen Volkes"
+<br><br>
 
 ### Datum: 22.10.2021
 
@@ -22,7 +23,7 @@ Beginn:       9:48 Uhr       bis   14:33 Uhr
 ### Frage:
 Was blockiert und hindert die Wesenheit des „Deutschen Volkes“ zu Erwachen / in die Selbstermächtigung zu kommen?
 
-
+<br><br>
 
 ### Körperscan:
 
