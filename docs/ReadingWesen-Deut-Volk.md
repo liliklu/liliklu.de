@@ -1,5 +1,6 @@
 ---
-title: Reading Wesen des Deutschen Volkes
+title: Beispiel
+Reading
 ---
 <style>
 img {
