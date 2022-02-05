@@ -13,6 +13,7 @@ img {
 
 ### Ein paar Worte zum Reading:
 
+
 Das Reading bekommt durch eine von Dir gestellte Frage einen Wirkrahmen.
 
 Ich nehme Deine Frage als Grundlage und gehe mit ihr in das Reading. Ich werde dann mit Deiner Erlaubnis, die Du in Verbindung mit Deiner Seele durch die Veranlassung des Readings gibst, alles, was sich zeigt, lösen und harmonisieren.
