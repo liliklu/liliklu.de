@@ -11,8 +11,6 @@ img {
  ![](/img/Reading Deutsches Volk.png)
 
 
-
-## Reading für die energetische "Wesenheit des Deutschen Volkes"
 <br><br>
 
 ### Datum: 22.10.2021
