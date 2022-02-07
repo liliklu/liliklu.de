@@ -6,6 +6,9 @@ docs_dir: docs/
 copyright: © 2022 Ute Klinke
 plugins:
   - awesome-pages
+  - mkdocs-simple-hooks:
+      hooks:
+        on_nav: "docs.hooks:filter_drafts"
 #  - blog:
 #      more-articles: Weitere (%)
 #      pagination: Seite % von %
@@ -20,6 +23,8 @@ theme:
 extra_css:
     - css/extra.css
 
+markdown_extensions:
+  - meta
 #theme:
 #  name: null
 #  custom_dir: 'custom_theme/'
