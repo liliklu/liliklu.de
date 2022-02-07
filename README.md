@@ -1,8 +1,18 @@
 # README
 
+## Meta information
+
+```yaml
+title: Title of the page
+hide:
+  - toc # hides table of content on the page
+draft: true # page will not be included in navigation
+```
+
 ## Benutzte Software
 - [MKDocs](https://www.mkdocs.org/)
 - [Navigation Plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin)
+- [Simple Hooks](https://github.com/aklajnert/mkdocs-simple-hooks)
 
 ## Nützliches Wissen
 

@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD
 title: Beispiel
 Reading
+=======
+title: Beispiel Reading
+draft: true
+>>>>>>> 3a3f212607ddbdd40d5585f46ddd1b14d8970677
 ---
 <style>
 img {
@@ -58,7 +63,11 @@ Selbstliebe erhöht
 Bewusstsein erhöht
 Minderwert vermindert
 Zuversicht erhöht
+<<<<<<< HEAD
 Schutzschild verstärkt..
+=======
+Schutzschild verstärkt
+>>>>>>> 3a3f212607ddbdd40d5585f46ddd1b14d8970677
 Schuld vermindert
 Scham vermindert
 
@@ -99,7 +108,11 @@ Insektoid 			entfernt
 Energetische Qualle 		entfernt
 Schattenwesen		entfernt
 Energetische Spinne/BOT	entfernt
+<<<<<<< HEAD
 Interdimensionaler ET entfernt
+=======
+Interdimensionaler ET            entfernt
+>>>>>>> 3a3f212607ddbdd40d5585f46ddd1b14d8970677
 Negative ET			entfernt
 Illuminaten			entfernt
 Elemental			entfernt
@@ -125,6 +138,7 @@ Unethisches Handeln
 anderer			gelöst
 
 ### Sonstige
+<<<<<<< HEAD
 Entferne Fluch entfernt  
 Magnetische Ladung im Körper	korrigiert
 Krankheit entfernt
@@ -135,6 +149,18 @@ Bänder trenne			–	getrennt
 Das Weibliche heilen	–		in Heilung
 Bann lösen		–		gelöst
 Ritualspuren löschen	–	gelöscht
+=======
+Entferne Fluch			entfernt
+Magnetische Ladung im Körper	korrigiert
+Krankheit entfernt
+Entferne Geistführer			entfernt
+Befreiung aus Zeitfalte		befreit
+Entfernen von Familienmitglied  	entfernt
+Bänder trenne				getrennt
+Das Weibliche heilen			in Heilung
+Bann lösen				gelöst
+Ritualspuren löschen			gelöscht
+>>>>>>> 3a3f212607ddbdd40d5585f46ddd1b14d8970677
 Besetzung				entfernt
 Mondmatrix				gelöst
 Strahlung durch Haarp		korrigiert
