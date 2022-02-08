@@ -2,7 +2,7 @@
 title: Schwingungsmuster
 hide:
 - toc
-- navigation
+
 draft: true
 ---
 
