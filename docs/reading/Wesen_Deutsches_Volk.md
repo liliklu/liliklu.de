@@ -125,10 +125,10 @@ Unethisches Handeln anderer	–	gelöst
 Entferne Fluch – entfernt  
 Magnetische Ladung im Körper	– korrigiert  
 Krankheit entfernt  
-Entferne Geistführer	–		entfernt  
-Befreiung aus Zeitfalte	–	befreit  
+Entferne Geistführer	entfernt  
+Befreiung aus Zeitfalte	– befreit  
 Entfernen von Familienmitglied  –	entfernt  
-Bänder trenne			–	getrennt  
+Trenne Bänder			–	getrennt  
 Das Weibliche heilen	–		in Heilung  
 Bann lösen	–		gelöst  
 Ritualspuren löschen	–	gelöscht  
@@ -142,13 +142,13 @@ DOR – Deadly Orgon 			korrigiert
 
 ### Heilen mit:
 
-Australian Bush Flowers
-Mountain Devil
-Macroparca
-Lichen
-Isopogon
+Australian Bush Flowers  
+Mountain Devil  
+Macroparca  
+Lichen  
+Isopogon  
 
-Heilstein
+### Heilstein
 Perle
 
 
