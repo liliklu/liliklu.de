@@ -52,29 +52,29 @@ Stufe der Heilung
 Hilfe als nötig anerkannt
 
 ### Energiekegel
-Mut erhöht
-Selbstliebe erhöht
-Bewusstsein erhöht
-Minderwert vermindert
-Zuversicht erhöht
-Schutzschild verstärkt..
-Schuld vermindert
-Scham vermindert
+Mut erhöht –
+Selbstliebe erhöht –
+Bewusstsein erhöht –
+Minderwert vermindert –
+Zuversicht erhöht –
+Schutzschild verstärkt –
+Schuld vermindert –
+Scham vermindert –
 
 
 ### Vorbereitung energetisch
-Höheres Selbst in den 3D Körper gezogen
-Im Herz/Solarplexus verankert
-Im eigenen Körper verankert
-Mit Erde verbunden
-Mit Lebenssinn verbunden
-Von Wünschen anderer abgekoppelt
-DNS mit Liebesenergie verbunden
-Reptil DNS deaktiviert
-Opferprogramm deaktiviert
-Vertauschte Pole korrigiert
-Mit eigener Göttlichkeit verbunden
-Mit eigenem Höherem Selbst verbunden
+Höheres Selbst in den 3D Körper gezogen  
+Im Herz/Solarplexus verankert  
+Im eigenen Körper verankert  
+Mit Erde verbunden  
+Mit Lebenssinn verbunden  
+Von Wünschen anderer abgekoppelt  
+DNS mit Liebesenergie verbunden  
+Reptil DNS deaktiviert  
+Opferprogramm deaktiviert  
+Vertauschte Pole korrigiert  
+Mit eigener Göttlichkeit verbunden  
+Mit eigenem Höherem Selbst verbunden  
 
 
 ### Navigator
@@ -82,64 +82,62 @@ Mit eigenem Höherem Selbst verbunden
 ### Personen Tabelle
 
 ### Ahnen Tabelle
-Ausweglosigkeit gelöscht
-Familienkarma gelöst
-Scheinmoral gelöst
-Außereheliche Liebschaften gelöst
-Genetik korrigiert, in die göttliche Ordnung
-Inzest korrigiert
-Frauenhass korrigiert
-Fremde Wesenheiten
-Anunaki			entfernt
+Ausweglosigkeit gelöscht  
+Familienkarma gelöst  
+Scheinmoral gelöst  
+Außereheliche Liebschaften gelöst  
+Genetik korrigiert, in die göttliche Ordnung  
+Inzest korrigiert  
+Frauenhass korrigiert  
+Fremde Wesenheiten entfernt  
+Anunaki			entfernt  
 Christlicher Dämon		entfernt
-Reptil				entfernt
-Grauer ET			entfernt
-Insektoid 			entfernt
-Energetische Qualle 		entfernt
-Schattenwesen		entfernt
-Energetische Spinne/BOT	entfernt
-Interdimensionaler ET entfernt
-Negative ET			entfernt
-Illuminaten			entfernt
-Elemental			entfernt
-Krafttier			entfernt
-Wesen aus mag. Ritual	entfernt
+Reptil				entfernt  
+Grauer ET			entfernt  
+Insektoid 			entfernt  
+Energetische Qualle 		entfernt  
+Schattenwesen		entfernt  
+Energetische Spinne/BOT	entfernt  
+Interdimensionaler ET entfernt  
+Negative ET			entfernt  
+Illuminaten			entfernt  
+Elemental			entfernt  
+Krafttier			entfernt  
+Wesen aus mag. Ritual	entfernt  
 
 
-Kriese durch altes Trauma
-Opferdenken durch altes Trauma
-Steifheit durch Trauma
+Kriese durch altes Trauma  
+Opferdenken durch altes Trauma  
+Steifheit durch Trauma  
 
 
 ### Traumen
-Sklavendasein			gelöst
-Misshandlung			gelöst
-Bloßstellung			gelöst
-Schuldzuweisung		gelöst
-Gewalt				gelöst
-Falsche Rolle spielen
-müssen			gelöst
-Scheinmoral anderer		gelöst
-Unethisches Handeln
-anderer			gelöst
+Sklavendasein	–	gelöst  
+Misshandlung	–	gelöst  
+Bloßstellung	–	gelöst  
+Schuldzuweisung	–	gelöst  
+Gewalt	–	gelöst  
+Falsche Rolle spielen müssen	–	gelöst  
+Scheinmoral anderer	–	gelöst  
+Unethisches Handeln anderer	–	gelöst  
 
 ### Sonstige
-Entferne Fluch entfernt  
-Magnetische Ladung im Körper	korrigiert
-Krankheit entfernt
-Entferne Geistführer	–		entfernt
-Befreiung aus Zeitfalte	–	befreit
-Entfernen von Familienmitglied  –	entfernt
-Bänder trenne			–	getrennt
-Das Weibliche heilen	–		in Heilung
-Bann lösen		–		gelöst
-Ritualspuren löschen	–	gelöscht
-Besetzung				entfernt
-Mondmatrix				gelöst
-Strahlung durch Haarp		korrigiert
-E.L.F. erzeugt emotionalen Stress	korrigiert
-E.L.F.= Extremely Low Frequency
-DOR – Deadly Orgon 			korrigiert
+Entferne Fluch – entfernt  
+Magnetische Ladung im Körper	– korrigiert  
+Krankheit entfernt  
+Entferne Geistführer	–		entfernt  
+Befreiung aus Zeitfalte	–	befreit  
+Entfernen von Familienmitglied  –	entfernt  
+Bänder trenne			–	getrennt  
+Das Weibliche heilen	–		in Heilung  
+Bann lösen	–		gelöst  
+Ritualspuren löschen	–	gelöscht  
+Besetzung entfernt  
+Mondmatrix	gelöst  
+Strahlung durch Haarp		korrigiert  
+E.L.F. erzeugt emotionalen Stress	korrigiert  
+E.L.F.= Extremely Low Frequency  
+DOR – Deadly Orgon 			korrigiert  
 
 
 ### Heilen mit:
