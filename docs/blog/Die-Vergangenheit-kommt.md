@@ -66,7 +66,7 @@ Die Erkenntnis über all dies lässt die „erlebte Vergangenheit“ in einem an
 Der einzige Punkt, es nicht so hart sehen zu müssen, ist die Tatsache, dass mir die Spielregeln des ganzen nicht bewusst waren und ich in dem Augenblick es nicht besser wusste. Immer vorausgesetzt, ich gebe zu jedem Zeitpunkt immer mein Bestes!
 Des Weiteren lasse ich die zwischenmenschlichen Befindlichkeiten, dass beeinflussen in jedem Moment des Zusammenseins mit anderen und darüber hinaus hier völlig außer Acht. Dies würde die Klarheit dieser Erkenntnis verwischen.
 
-Mein Sohn macht es mir immer wieder vor. Wenn er sich etwas in den Kopf gesetzt hat, sprich, wenn er die Möglichkeit des Ziels setzt, hatte nichts anderes mehr nur einen Hauch von einer Change. Das Ziel wurde immer zu 100% erreicht. Die Erfüllung ging dann oftmals ungewöhnliche Wege, aber das Ziel wurde immer recht schnell erreicht.
+Mein Sohn macht es mir immer wieder vor. Wenn er sich etwas in den Kopf gesetzt hat, sprich, wenn er die Möglichkeit des Ziels setzt, hatte nichts anderes mehr nur einen Hauch von einer Chance. Das Ziel wurde immer zu 100% erreicht. Die Erfüllung ging dann oftmals ungewöhnliche Wege, aber das Ziel wurde immer recht schnell erreicht.
 
 Jetzt können viele Fragen, die gestellt wurden, mit Leichtigkeit beantwortet werden, ohne diese Fragen wäre ich aber nicht zu dieser Erkenntnis gelangt.
 Jede einzelne Frage hat mich erst zur umfassenden Antwort gebracht.
