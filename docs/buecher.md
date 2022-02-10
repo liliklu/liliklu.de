@@ -21,3 +21,6 @@ hide:
 | Ihr seid Lichtwesen: Ursprung und Geschichte des Menschen | Armin Risi             | 978-3-90583-127-6 |
 | Heilung im Licht                                          | Anita Moorjani         | 978-3-442-34118-4 |
 | "Ich bin einfach göttlich"                                | Ingrid Raßelenberg     | 978-3-750-40475-5 |
+| Energieschnüre                                            | Denise Linn            | 978-3-453-70425-1 |
+| T A R O T                                                 | Elisabeth Haich        | 978-3-943012-96-5 |
+| Das Vermächtnis                                           | Elisabeth Haich        | 978-3-89427-902-8 |
