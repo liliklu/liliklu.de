@@ -1,5 +1,5 @@
 ---
-title: Schwingungsmuster
+title: Medallion
 hide:
 - toc
 
