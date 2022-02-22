@@ -24,3 +24,5 @@ hide:
 | Energieschnüre                                            | Denise Linn            | 978-3-453-70425-1  |
 | T A R O T                                                 | Elisabeth Haich        | 978-3-943012-96-5  |
 | Das Vermächtnis                                           | Elisabeth Haich        | 978-3-89427-902-8  |
+| Die 64 Genschlüssel                                       | Richard Rudd           | 978-9-0887-9146-8  |
+| Energieschüre Erkenne und kläre die verborgenen . . .     | Denise Linn            | 978-3-453-70425-1  |
