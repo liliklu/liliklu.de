@@ -12,10 +12,10 @@ img {
 }
 </style>
 
-![](../img/2022-03-24a.png)
+![](../img/mensch.png)
 <br><br>
 
-### Mensch wach auf!  
+**Mensch wach auf!**  
 
 Steh auf und fang an dich zu fühlen,
 fühl die Lebendigkeit in dir,
@@ -53,7 +53,7 @@ Es lohnt sich, wir warten schon so lange auf dein Erwachen, also verschlaf den S
 
 <br>
 
-### Mensch wach auf!
+**Mensch wach auf!**
 
 Danke
 Liliklu
