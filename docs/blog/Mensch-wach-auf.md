@@ -15,7 +15,7 @@ img {
 ![](../img/mensch.png)
 <br><br>
 
-Mensch wach auf!
+### **Mensch wach auf!**
 
 Steh auf und fang an dich zu fühlen,  
 fühl die Lebendigkeit in dir,  
@@ -37,17 +37,23 @@ Nie war der Schleier so durchsichtig und durchlässig wie heute, nie war es einf
 
 Mensch wach auf!  
 
-Sieh all das Leid hinter dem Schleier, sieh die Korruption, die Lügen, den Betrug, die Manipulation, den Missbrauch auf allen Ebenen, auf allen Ebenen, auch auf jenen, die verschachtelt in deinem Bewusstsein noch entschachtelt werden müssen! Das Ausmaß ist noch nicht abzusehen, aber wichtig ist der erste Schritt:  
+Sieh all das Leid hinter dem Schleier, sieh die Korruption,  
+die Lügen, den Betrug, die Manipulation, den Missbrauch auf allen Ebenen,  
+auf allen Ebenen, auch auf jenen, die verschachtelt in deinem Bewusstsein  
+noch entschachtelt werden müssen! Das Ausmaß ist noch nicht abzusehen, aber wichtig ist der erste Schritt:  
 
 Mensch wach auf, jetzt!  
 
-Hinzuschauen kostet einige Mühe und Kraft mehr Kraft, als Dir vielleicht zur Verfügung steht! Aber Du bist nicht allein, wir sind füreinander da. Zu begreifen ist es noch lange nicht, von verarbeiten kann noch keine Rede sein!
-Aber all dies ist erst möglich, wenn Du aufwachst und nicht wieder die Augen schließt, weil es sich einfacher anfühlt. Es ist mit Sicherheit nicht einfacher, das wäre eine Illusion und diese gilt es jetzt zu beenden.  
+Hinzuschauen kostet einige Mühe und Kraft mehr Kraft, als Dir vielleicht zur Verfügung steht! Aber Du bist nicht allein, wir sind füreinander da.  
+Zu begreifen ist es noch lange nicht, von verarbeiten kann noch keine Rede sein!  
+Aber all dies ist erst möglich, wenn Du aufwachst und nicht wieder die Augen   schließt, weil es sich einfacher anfühlt. Es ist mit Sicherheit nicht einfacher,  
+das wäre eine Illusion und diese gilt es jetzt zu beenden.  
 
 Mensch wach auf, die Morgenröte des neuen Morgens dämmert schon!  
-Es lohnt sich, wir warten schon so lange auf dein Erwachen, also verschlaf den Sonnenaufgang nicht, aus Angst vor dem neuen Tag, denn der wird „wunder-voll“.  
+Es lohnt sich, wir warten schon so lange auf dein Erwachen, also verschlaf den  
+Sonnenaufgang nicht, aus Angst vor dem neuen Tag, denn der wird „wunder-voll“.  
 
-Mensch wach auf!  
+**Mensch wach auf!**  
 
 Danke
 Liliklu
