@@ -41,7 +41,7 @@ Natürlich sende ich Dir ein Abschlussprotokoll von allem, was sich energetisch 
 ## Leistung – Ausgleich
 Ein Reading dauert erfahrungsgemäß 3 - 4 Stunden.
 
-**Ausgleich**: 85,00 Euro/ Reading
+**Ausgleich**: 101,00 Euro/ Reading
 
 
 > Achtung:
