@@ -26,4 +26,4 @@ hide:
 | Das Vermächtnis                                           | Elisabeth Haich        | 978-3-89427-902-8  |
 | Die 64 Genschlüssel                                       | Richard Rudd           | 978-9-0887-9146-8  |
 | Energieschüre Erkenne und kläre die verborgenen . . .     | Denise Linn            | 978-3-453-70425-1  |
-| Vermächtnis einer neuen Medizin                           | Dr.Med.Ryke Geerd Hamer| AmicideDirk Verlag |
+| Vermächtnis einer neuen Medizin,die 5 biol. Naturgesetze  | Dr.Med.Ryke Geerd Hamer| AmicideDirk Verlag |
