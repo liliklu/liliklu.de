@@ -1,5 +1,5 @@
 ---
-title: Kurz und knackig 2
+title: Kurz und knackig 02
 
 hide:
 - toc
@@ -36,7 +36,7 @@ Treffen alle 3 Faktoren zusammen, handelt es sich um ein DHS
 (Dirk-Hamer-Syndrom) und schlägt als "hamischer Herd"  
 (HH=sichtbare schießscheibenförmige Markierung) dem zum  
 Konfliktzeitpunkt empfundenen Konfliktinhalt entsprechend im  
-Gehirn und gleichzeitig auf im entsprechendem Organ ein. Auf  
+Gehirn und gleichzeitig im dementsprechenden Organ ein. Auf  
 psychischer Ebene herrscht Zwangsdenken. Jetzt dreht sich alles nur  
 noch um den empfundenen Konfliktinhalt. Das sinnvolle biologische  
 Sonderprogramm (SBS) wurde automatisch mit dem DHS, am Verstand vorbei gestartet, um diesen Konflikt so schnell wie möglich zu lösen.
