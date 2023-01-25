@@ -23,20 +23,20 @@ img {
 . . . das jedes Keimblatt seine eigenen Konfliktinhalte hat?
 
 <br><br>
-Das erste innere und älteste Keimblatt ist das Entoderm mit der   
-gelben und gelb-orangenen Gruppe. Es wird dem Stammhirn mit   
-Mittelhirn zugeordnet und hat den Brocken als Konfliktinhalt  
+Das erste innere und älteste Keimblatt ist das **Entoderm** mit der   
+**gelben** und **gelb-orangenen** Gruppe. Es wird dem Stammhirn mit   
+Mittelhirn zugeordnet und hat den **Brocken** als Konfliktinhalt  
 <br><br>
-Das zweite mittlere Keimblatt ist das Mesoderm mit der orange und  
-orange-gelben Gruppe. Das Mesoderm wird dem Kleinhirn und dem  
+Das zweite mittlere Keimblatt ist das **Mesoderm** mit der **orange** und  
+**orange-gelben** Gruppe. Das Mesoderm wird dem Kleinhirn und dem  
 Großhirn-Marklager zugeordnet. Wobei das Großhirn-Marklager  
-(orange) den Selbstwert und das Kleinhirn (orange-gelb)die  
- Attacke/Integrität zum Konfliktinhalt hat.  
+**(orange)** den **Selbstwert** und das Kleinhirn (**orange-gelb**)die  
+ **Attacke/Integrität** zum Konfliktinhalt hat.  
 <br><br>
-Das dritte äußere Keimblatt ist das Ektoderm und findet sich in  
-der roten Gruppe. Das Ektoderm wird der Großhirn-Rinde(Cortex)  
-zugeordnet und hat 1. Revier- und 2. Trennungs-Konflikt und 3.  
-den Funktionsausfall.
+Das dritte äußere Keimblatt ist das **Ektoderm** und findet sich in  
+der **roten** Gruppe. Das Ektoderm wird der Großhirn-Rinde(Cortex)  
+zugeordnet und hat 1. **Revier-** und 2. **Trennungs-Konflikt** und 3.  
+den **Funktionsausfall** .
 <br><br>
 Dies ist alles natürlich in vereinfachter Form dargestellt, aber  
 die Grundsystematik wird sichtbar.
