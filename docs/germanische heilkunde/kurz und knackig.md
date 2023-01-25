@@ -1,9 +1,8 @@
 ---
 title: Kurz und knackig
+
 hide:
 - toc
-
-draft: true
 ---
 
 <style>
