@@ -1,5 +1,5 @@
 ---
-title: Kurz und knackig
+title: Kurz und knackig 01
 
 hide:
 - toc
@@ -14,7 +14,7 @@ img {
 
 ![](../img/k-und-k-2023-01-25.png)
 
-## **Kurz und knackig 01**
+## **Kurz und knackig**
 <br><br>
 ### **Wustes Du . . .**
 <br><br>
