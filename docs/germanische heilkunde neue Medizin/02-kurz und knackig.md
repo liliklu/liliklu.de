@@ -43,8 +43,8 @@ synchron ein.
 Im Gehirn und Organ als HH mit einem  
 Organ- oder Hirn-CT nachweisbar.  
 Auf der psychischen Ebene herrscht ab jetzt  
-Zwangsdenken. Alle Gedanken drehen sich nur noch  
-um Konfliktlösung.  
+Zwangsdenken. Alle Gedanken drehen sich nur  
+noch um Konfliktlösung.  
 
 Hände und Füße sind kalt, Schlafstörungen  
 durch Zwangsdenken.  
