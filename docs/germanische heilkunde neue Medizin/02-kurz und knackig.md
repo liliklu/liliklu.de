@@ -32,28 +32,28 @@ Der biologische Konflikt hat 3 Grundvoraussetzungen, von denen nicht eine fehlen
 **2. Isolativ**  
 **3. Auf dem falschen Fuß erwischt.**  
 
-Treffen alle 3 Faktoren zusammen, handelt es  
-sich um ein DHS (Dirk-Hamer-Syndrom).  
-Dieser schlägt als "hamischer Herd"  
-(HH=sichtbare schießscheibenförmige  
-Markierung) dem zum Konfliktzeitpunkt  
+Treffen alle 3 Faktoren zusammen, so handelt es  
+sich um ein sogenanntes DHS (Dirk-Hamer-Syndrom)  
+und schlägt als HH (Hamischer Herd = sichtbare  
+schießscheibenförmige Markierung) dem  
 empfundenen Konfliktinhalt entsprechend  
-im Gehirn und gleichzeitig auf der  
-Organebene ein.  
+auf allen 3 Ebenen synchron ein.  
 
-Auf der psychischer Ebene herrscht ab diesem  
-Schockmoment Zwangsdenken. Jetzt dreht sich  
-alles nur noch um den empfundenen  
-Konfliktinhalt.  
+Im Gehirn und Organ als HH mit einem  
+Organ- oder Hirn-CT nachweisbar.  
+Auf der psychischen Ebene herrscht ab jetzt  
+Zwangsdenken. Alle Gedanken drehen sich nur noch  
+um Konfliktlösung.  
+
+Hände und Füße sind kalt, Schlafstörungen  
+durch Zwangsdenken.  
 
 Das sinnvolle biologische Sonderprogramm  
-(SBS) wurde automatisch, am Verstand vorbei  
-mit dem DHS, synchron auf allen 3 Ebenen  
-(Psyche, Gehirn, Organ) gestartet, um diesen  
-Konflikt so schnell wie möglich zu lösen  
-und die Notsituation zu meistern.
-
-
+(SBS) wurde im Schockmoment  
+automatisch am Verstand vorbei gestartet,  
+um diesen Konflikt so schnell wie möglich   
+zu lösen und die Notsituation zu meistern.
+<br><br>
 **Beispiel 1:**  
 
 a) Du kommst in eine Straße und ein **fremdes** Haus brennt.  
