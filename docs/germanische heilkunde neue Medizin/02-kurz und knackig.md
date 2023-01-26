@@ -32,12 +32,13 @@ Der biologische Konflikt hat 3 Grundvoraussetzungen, von denen nicht eine fehlen
 **2. Isolativ**  
 **3. Auf dem falschen Fuß erwischt.**  
 
-Treffen alle 3 Faktoren zusammen, so handelt es  
-sich um ein sogenanntes DHS (Dirk-Hamer-Syndrom)  
-und schlägt als HH (Hamischer Herd = sichtbare  
-schießscheibenförmige Markierung) dem  
-empfundenen Konfliktinhalt entsprechend  
-auf allen 3 Ebenen synchron ein.  
+Treffen alle 3 Faktoren zusammen, so  
+handelt es sich um ein sogenanntes DHS  
+(Dirk-Hamer-Syndrom) und schlägt als HH  
+(Hamischer Herd = sichtbare schießscheiben-  
+förmige Markierung) dem empfundenen  
+Konfliktinhalt entsprechend auf allen 3 Ebenen  
+synchron ein.  
 
 Im Gehirn und Organ als HH mit einem  
 Organ- oder Hirn-CT nachweisbar.  
