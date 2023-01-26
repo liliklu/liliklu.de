@@ -41,25 +41,29 @@ empfundenen Konfliktinhalt entsprechend
 im Gehirn und gleichzeitig auf der  
 Organebene ein.  
 
-Auf der psychischer Ebene herrscht Zwangs-  
-denken. Jetzt dreht sich alles nur noch  
-um den empfundenen Konfliktinhalt.  
+Auf der psychischer Ebene herrscht ab diesem  
+Schockmoment Zwangsdenken. Jetzt dreht sich  
+alles nur noch um den empfundenen  
+Konfliktinhalt.  
 
 Das sinnvolle biologische Sonderprogramm  
-(SBS) wurde automatisch mit dem DHS,  
-am Verstand vorbei gestartet, um diesen  
+(SBS) wurde automatisch, am Verstand vorbei  
+mit dem DHS, synchron auf allen 3 Ebenen  
+(Psyche, Gehirn, Organ) gestartet, um diesen  
 Konflikt so schnell wie möglich zu lösen  
 und die Notsituation zu meistern.
 
 
 **Beispiel 1:**  
-Du kommst in eine Straße und ein **fremdes** Haus brennt.  
 
-oder:  
+a) Du kommst in eine Straße und ein **fremdes** Haus brennt.  
 
-Du kommst in eine Straße und **Dein** Haus brennt.
+**oder:**  
 
-**Ersten Teil:**  
+b) Du kommst in eine Straße und **Dein** Haus brennt.
+
+**Teil a:**
+
 **Hochakut-dramatisch - ja**  
 
 **Auf dem falschen Fuß erwischt - ja**, Du  
@@ -69,7 +73,8 @@ selbst gelegt oder bereits davon gewusst!!!
 
 **Isolativ - nein**, da es ein fremdes Haus ist.  
 
-**Zweiter Teil:**  
+
+**Teil b:**  
 
 **Hochakut-dramatisch - ja**
 
@@ -82,4 +87,5 @@ betroffen es sei denn, Du . . .
 Bis bald zum Nächsten kurz und knackig.
 
 
-Ute
+Ute  
+Liliklu
