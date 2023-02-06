@@ -21,7 +21,7 @@ img {
 
 . . . dass die **Tuberkulose eine**  
 **Heilphase der Becherzellen der**  
-**Bronchial-Darmschleimhaut** sind?
+**Bronchial-Darmschleimhaut** ist?
 
 Der biologische Konflikt spricht  
 vom **Luftbrocken**(gelbe Gruppe), den man  
