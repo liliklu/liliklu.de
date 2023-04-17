@@ -1,0 +1,7 @@
+body:before {
+    background: rgba(167, 219, 255, 0.48) !important;
+}
+
+.dropdown-menu {
+    background-color: #ccecff;
+}
