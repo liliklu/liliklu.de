@@ -5,7 +5,7 @@ hide:
 ---
 # Du findest mich auch auf [Telegram](https://t.me/Liliklu)
 
-![](img/opener.png)
+![](img/liliklu-blog.png)
 
 
 
